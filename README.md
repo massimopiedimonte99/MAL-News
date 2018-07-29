@@ -2,6 +2,8 @@
 
 Simple console application for lazy anime lovers.
 
+<img src="https://image.ibb.co/mJnQM8/ezgif_com_gif_maker.gif">
+
 ## Get started
 
 To get started with **MAL News**, you just need to install Python on your machine, then go into your installation folder in your CMD:
